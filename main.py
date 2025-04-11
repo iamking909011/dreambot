@@ -5,7 +5,7 @@ import asyncio
 import threading
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7459877430:AAG4yG0f_uzdb19J6J8rK2k9DCphCm7PH8I")
 CHANNEL_USERNAME = '@CLASS11EBOOK'
 SECRET_CODE = 'dream2025'
 APK_LINK = 'https://asmultiverse.com/'
